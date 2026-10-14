@@ -7,7 +7,7 @@
 
 
 🔭 I’m currently working as a Software Engineer  
-🌱 I’m currently learning AWS, Laravel and vue  
+🌱 I’m currently learning Nest.js, next.js, microservices, distributed systems
 
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=dodclakmuthu&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <!--
